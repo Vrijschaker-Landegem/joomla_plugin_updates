@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <update>
+        <name>GDrive Website Sync</name>
+        <description>Mirrors a shared Google Drive folder and publishes its HTML pages.</description>
+        <element>com_gdrive</element>
+        <type>component</type>
+        <version>1.2.1</version>
+        <infourl>https://github.com/Vrijschaker-Landegem/joomla_plugin_updates/releases/tag/com_gdrive-v1.2.1</infourl>
+        <downloads>
+            <url>https://github.com/Vrijschaker-Landegem/joomla_plugin_updates/releases/download/com_gdrive-v1.2.1/com_gdrive.zip</url>
+            <label>v1.2.1</label>
+        </downloads>
+        <targetplatform name="joomla" version="6" />
+        <php_minimum>8.1</php_minimum>
+        <stability>stable</stability>
+    </update>
+</updates>
